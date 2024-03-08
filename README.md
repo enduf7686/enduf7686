@@ -1,3 +1,3 @@
 ### 나중에 꾸밀것임 좀만 ㄱㄷ
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=enduf7686&show_icons=true&theme=radical)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=enduf768640)](https://solved.ac/enduf768640/)
